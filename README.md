@@ -1,5 +1,5 @@
 # ArgosCam
-This project is the result of my bachelor degree final projects, of my studies in mechatronical engineering, a copy of the complete documentation of the project can be found in the documentation folder. <!-- link a carpeta -->
+This project is the result of my bachelor degree final projects, for my studies in mechatronical engineering, a copy of the complete documentation of the project can be found in the documentation folder. <!-- link a carpeta -->
 
 
 ## Introduction
