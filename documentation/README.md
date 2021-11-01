@@ -1,5 +1,5 @@
-Documentation in different languages: 
+# Documentation in different languages: 
 
-EN - English
-ES - Spanish
-CAT - Catalan
+- EN - English
+- ES - Spanish
+- CAT - Catalan
