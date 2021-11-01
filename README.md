@@ -99,9 +99,10 @@ Figure 9: Background sustraction "algorithm" steps
 
 This allow to obtain the desired result. In this case a rectangular shaped masked arround the moving objects.
 
-Some examples of the result can be found in the results folder.<!-- link a carpeta -->
-
-<!-- tabla de resultados -->
+ Result examples:
+ <p align="center">
+  <img alt="Background sustraction results" width="300" height="500" src="https://user-images.githubusercontent.com/61985816/139731540-be407ca7-33ee-4cfd-aebd-a8f562b3e667.png">
+</p>
 
 
 ### Object detection
