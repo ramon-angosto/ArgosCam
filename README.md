@@ -139,7 +139,7 @@ The luminous and sound warnings will activated when any of the relevant objects 
 
 
 ### 3D Design
-To encapsulate the project, a housing has been designed for the screen, battery, recessed system, and electronic board, and a different one for each camera. This task was carried out using the CAD Fusion 360 program. In the folder called 3D, the following files are included: instruccions to build it, shematics, and the stl. files.
+To encapsulate the project, a housing has been designed for the screen, battery, recessed system, and electronic board, and a different one for each camera. This task was carried out using the CAD Fusion 360 program. In the folder called 3D, the following files are included: instruccions to build it and the stl. files.
 
 <p align="center">
   <img alt="ARGOS CAM" width="300" height="300" src="https://user-images.githubusercontent.com/61985816/138745712-3d5959ed-3e7d-40c7-977d-75365cefbb19.jpeg">
