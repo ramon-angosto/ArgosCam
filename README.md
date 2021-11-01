@@ -71,7 +71,7 @@ Figure 7: Nvidia Jetson Nano B01
 
 The OS version I used for the project was Jetpack 4.5
 
-The programming language used is python. A detailed explanation of the libraries used can be found in the READ_ME file inside the folder called Code. <!-- link a carpeta -->
+The programming language used is python. A detailed explanation of the libraries used can be found in the READ_ME file inside the folder called [Code](https://github.com/ramon-angosto/ArgosCam/tree/main/code).
 
 <p align="center">
   <img alt="Jetson connections" width="300" height="200" src="https://user-images.githubusercontent.com/61985816/138739706-97fdc6f1-32b2-446a-a2d2-1f27819f2863.png">
@@ -119,7 +119,7 @@ In addition to the audible warning, the device has light warnings to identify if
   <img alt="Detection representation" width="200" height="200" src="https://user-images.githubusercontent.com/61985816/138743085-07106187-f787-4f60-9413-446576661a0c.png">
 </p>
 
-Figure 10: Detection representation.<!-- tabla de resultados -->
+Figure 10: Detection representation.
 
 
 ## User interface and alerts
@@ -145,3 +145,6 @@ To encapsulate the project, a housing has been designed for the screen, battery,
 </p>
 
 Figure 12:  ARGOS CAM system mounted on a car
+
+## A video of the project can be found [here](https://youtu.be/hri5eU1GCwE)
+
