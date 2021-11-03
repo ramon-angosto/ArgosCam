@@ -31,7 +31,7 @@ In firs place, print all the stl. files
 - **pcb components soldered, except LEDS and BUZZER, only the correspondent cables**
 
 ## *LED Cover instructions
-Preferably have a tranparent filament for the printer. This is a way to do a multimaterial print if you have a multimaterial printer this step will be easier.
+Preferably have a tranparent filament for the printer. This is a way to do a multimaterial print with one extruder. If you have a multimaterial printer this step will be easier.
 
 In first place print the drawings file, using a black filament if you have some, once the print is done, don't remove it from the build plate.
 Change the material, to the transparent one in case you have some, or to another color. 
@@ -39,19 +39,25 @@ Change the material, to the transparent one in case you have some, or to another
 With the other component (stl name: drawings), still on the build plate, start printing the cover for the LEDS (stl name: circles).
 
 ## Jeston Nano and pcb case
-In first place, introduce the nuts (x6 M2), through the bottom holes of the base (stl name: Jetson_nano_base). Once this is done, the jetson nano and the pcb can be fixed to the base, using the appropiate screws x6 (M2 x 12). Remember to use an spacer (stl. file), between the base and the board, and also a washer between the boards and the screw.
+In first place, introduce the nuts (x6 M2), through the bottom holes of the base (stl name: Jetson_nano_base). Once this is done, the jetson nano and the pcb can be fixed to the base, using the appropiate screws x6 (M2 x 12). **Remember** to use an spacer (stl. file), between the base and the board, and also a washer between the boards and the screw.
 
-In second place put the cover of the jetson nano case (stl name:jetson_nano_case_cover). Before fixing it down attach the camera cables. Use a wood screw to hold it in place.
+In second place put the cover of the jetson nano case (stl name:jetson_nano_case_cover). **Before fixing it down** attach the camera cables to the jetson nano and pass it through the holes found on the top of the jetson nano case (stl name:jetson_nano_case_cover). 
+
+Use a wood screw to hold in place the cover and the base.
 
 ## Screen case
-In first place inrtoduce three M4 nuts in the appropiate hols in the interior part of the case (stl names: screen_case and screen_case1) . After this, lay the model flat on it's back, and using a plyers introduce x4 M2 nuts, on the four holes, located at the corners of the design, and also introduce four washers in the holes located over the nuts. Once this is done carefully introduce the screen and secure it using x4 (M2 x 20). Remeber to introduce the screen with the hdmi facing the inside. 
+In first place inrtoduce three M4 nuts in the appropiate hols in the interior part of the case (stl names: screen_case and screen_case1) . After this, lay the model flat on it's back, and using a tweezers introduce x4 M2 nuts, on the four holes, located at the corners of the design, and also introduce four washers in the holes located over the nuts. Also use two wood screws to hold both parts of the screen case, one hole is found under the 3 nut holes, and the other on the back part of the case.
+
+Once this is done carefully introduce the screen and secure it using x4 (M2 x 20). **Remeber** to introduce the screen with the hdmi facing the inside. 
 
 After the screen is fixed in place and the powerbank it's put inside the case the lid of the case (stl name: screen_case_side_cover), can be screwed down using 3 wood screws.
 
 ## Attach Jetson nano case to screen case
 To join these two pieces, x3 (M4 x 10) have to be used. In the back side of the base (stl name: Jetson_nano_base), introduce three washers and using the m4 screws fix this piece to the screen case.
 
-Then pass through the holes, at the top of the screen case, the cables for the LEDs and the buzzer, and solder the components. Finally put the covers with the symbols for the LEDS.
+Then pass through the holes, at the top of the screen case, the cables for the LEDs and the buzzer, and solder the components. Use the back covers (stl name: L/R _side_cover_screen_case), to cover the cables of the screen case. Use wood screws.
+
+Finally put the covers with the symbols for the LEDS.
 
 
 # Case for the Cameras
@@ -95,11 +101,3 @@ Using an M4 screw join the Gopro clip and the camera case
 
 
 **The design is completly build. Now place it inside the car and TRY IT.**
-
-
-
-
-
-
-
-
